@@ -1,0 +1,7 @@
+ORGANIZADOR DE PELICULAS
+
+Vamos a armar una mini aplicación con html con js que va a tener como finalidad organizar nuestras peliculas preferidas.
+Vamos a tomar el nombre de la pelicula y el año, y vamos a tomar el nombre de la pelicula y el año, y la vamos a mostrar
+en pantalla en una lista. La forma de mostrarlo en html y como captar los datos e ir mostrando sus peliculas favoritas 
+la pantalla. Cuando lleguemos a 5 peliculas agregadas, debemos avisarle a nuestro usuario con un mensaje que tiene muy 
+buenos gustos.
